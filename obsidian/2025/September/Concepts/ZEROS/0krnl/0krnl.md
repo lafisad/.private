@@ -1,0 +1,2 @@
+[[0krnl]] is the **root of trust**. this basically means that apart from being the core, it ensures **integrity** - which is pretty important for an operating system *meant* to be overly secure.
+it initializes hardware abstractions and root security mechanisms. also the init point for [[0init]] and booting.
