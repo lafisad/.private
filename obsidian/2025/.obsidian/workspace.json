@@ -41,22 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "September/Concepts/ZEROS/0krnl/0drv.md",
+                "file": "September/Concepts/ZEROS/docs/boot flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0drv"
+              "title": "boot flow"
             }
           },
           {
-            "id": "c577f24faab8d38e",
+            "id": "3580b5b26c6b9d4c",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "September/Concepts/ZEROS/zeroScript/zeroScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zeroScript"
             }
           },
           {
@@ -190,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "September/Concepts/ZEROS/0krnl/0drv.md",
+                "file": "September/Concepts/ZEROS/docs/boot flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0drv"
+              "title": "Outline of boot flow"
             }
           },
           {
@@ -229,14 +233,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52cde384c984b5b4",
+  "active": "21e714bd965e2f4f",
   "lastOpenFiles": [
+    "September/Concepts/ZEROS/docs/todo.md",
+    "September/Concepts/ZEROS/zeroScript/zeroScript.md",
+    "September/Concepts/ZEROS/0krnl/KERNEL.md",
+    "September/Concepts/ZEROS/0krnl/KERNEL.md",
+    "September/Concepts/ZEROS/zeroScript/!index.md",
+    "September/Concepts/ZEROS/zeroScript/usage.md",
+    "September/Concepts/ZEROS/zeroScript/philosophy.md",
+    "September/Concepts/ZEROS/zeroScript/kernel.md",
+    "September/Concepts/ZEROS/zeroScript/composition.md",
+    "September/Concepts/ZEROS/zeroScript/protocols.md",
+    "September/Concepts/ZEROS/zeroScript/modules.md",
+    "September/Concepts/ZEROS/0krnl/0drv.md",
     "September/Concepts/ZEROS/0krnl/0dev.md",
     "September/Concepts/ZEROS/0krnl/0init.md",
     "September/Concepts/ZEROS/0krnl/!index.md",
     "September/Concepts/ZEROS/0krnl/0boot.md",
-    "September/Concepts/ZEROS/docs/todo.md",
-    "September/Concepts/ZEROS/0krnl/0drv.md",
     "September/Concepts/ZEROS/0krnl/0fsys.md",
     "September/Concepts/ZEROS/0krnl/0io.md",
     "September/Concepts/ZEROS/0krnl/0ipc.md",
@@ -253,7 +267,6 @@
     "September/Concepts",
     "Untitled",
     "Untitled 1",
-    "September",
-    "Welcome.md"
+    "September"
   ]
 }

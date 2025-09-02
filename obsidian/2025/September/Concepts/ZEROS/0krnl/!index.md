@@ -1,3 +1,5 @@
+# 0krnl index
+
 **branch:** system
 - [[0schd]] - task scheduling
 - [[0memr]] - memory stuff
@@ -16,3 +18,6 @@
 - [[0krnl]] - kernel
 - [[0init]] - init
 - [[0boot]] - boot
+
+**scripting:**
+- [[zeroScript/!index.md]] - zeroScript system
