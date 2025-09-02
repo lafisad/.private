@@ -1,1 +1,2 @@
 controls ram and memory accesses
+splits up memory for processes, keeps stuff isolated, does paging and allocation. works with [[0fsys]] for file caching and memory-mapped files. checks for memory leaks and bad access. handles swap if needed. gives [[0schd]] info about process memory. keeps a table of who owns what memory. can lock memory for secure stuff.

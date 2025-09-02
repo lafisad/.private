@@ -1,2 +1,2 @@
 manages secure communication between processes
-ensures message integrity and isolation, coordinating with [[0schd]] and [[0krnl]]
+sets up message queues, pipes, and shared memory. checks message integrity and keeps stuff isolated. works with [[0schd]] for process signals and scheduling. talks to [[0krnl]] for security checks. can limit or block comms if needed. logs ipc events for audit.

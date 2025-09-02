@@ -1,0 +1,2 @@
+- expand all kernel module docs to explain exactly how they work, with details and cross-linking
+- check that every file has enough detail and links to related modules

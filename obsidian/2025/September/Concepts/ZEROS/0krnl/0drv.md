@@ -1,2 +1,2 @@
 handles driver loading, verification, and assignment to devices
-ensures only trusted drivers are used, working closely with [[0dev]] and [[0krnl]]
+checks driver signatures and only loads trusted ones. works closely with [[0dev]] to match drivers to hardware. can update or unload drivers if needed. talks to [[0krnl]] for root-of-trust stuff. passes driver info to [[0io]] for device comms. logs driver events for debugging.

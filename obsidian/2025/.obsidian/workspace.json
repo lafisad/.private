@@ -41,12 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "September/Concepts/ZEROS/0krnl/!index.md",
+                "file": "September/Concepts/ZEROS/0krnl/0drv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "!index"
+              "title": "0drv"
+            }
+          },
+          {
+            "id": "c577f24faab8d38e",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           },
           {
@@ -180,16 +190,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "September/Concepts/ZEROS/0krnl/0drv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0drv"
             }
           },
           {
-            "id": "ee1f830e6b893f12",
+            "id": "17f7ab62cda76d58",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -218,14 +229,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee1f830e6b893f12",
+  "active": "52cde384c984b5b4",
   "lastOpenFiles": [
+    "September/Concepts/ZEROS/0krnl/0dev.md",
+    "September/Concepts/ZEROS/0krnl/0init.md",
     "September/Concepts/ZEROS/0krnl/!index.md",
     "September/Concepts/ZEROS/0krnl/0boot.md",
-    "September/Concepts/ZEROS/0krnl/0dev.md",
+    "September/Concepts/ZEROS/docs/todo.md",
     "September/Concepts/ZEROS/0krnl/0drv.md",
     "September/Concepts/ZEROS/0krnl/0fsys.md",
-    "September/Concepts/ZEROS/0krnl/0init.md",
     "September/Concepts/ZEROS/0krnl/0io.md",
     "September/Concepts/ZEROS/0krnl/0ipc.md",
     "September/Concepts/ZEROS/0krnl/0krnl.md",

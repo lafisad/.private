@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#00ff4c",
+      "url": "https://zuse.classyplan.app/export.php?type=ics&all=1&u=6092067557&t=1de37ae3-0139-453a-b408-764da1690b30"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

@@ -1,2 +1,2 @@
 manages network stack initialization and secure communications
-handles network interfaces, protocols, and works with [[0io]] for data transfer
+handles network interfaces, protocols, and works with [[0io]] for data transfer. sets up ip addresses, routes, and firewall rules. checks network traffic for security. can enable or disable network interfaces. talks to [[0krnl]] for root-of-trust and secScore stuff. logs network events for monitoring.
