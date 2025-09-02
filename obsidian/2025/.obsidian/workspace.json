@@ -39,10 +39,14 @@
             "id": "21e714bd965e2f4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "September/Concepts/ZEROS/0krnl/!index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "!index"
             }
           },
           {
@@ -147,11 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "September/Concepts/ZEROS/0krnl/!index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from !index"
             }
           },
           {
@@ -213,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21e714bd965e2f4f",
+  "active": "ee1f830e6b893f12",
   "lastOpenFiles": [
     "September/Concepts/ZEROS/0krnl/!index.md",
     "September/Concepts/ZEROS/0krnl/0boot.md",
