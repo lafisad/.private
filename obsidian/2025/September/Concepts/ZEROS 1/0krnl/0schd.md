@@ -1,0 +1,2 @@
+plans and controls processes
+picks which process runs next, based on priority, fairness, and system load. works with [[0memr]] to make sure each process has memory. talks to [[0ipc]] for process comms and signals. can pause, resume, or kill processes. keeps track of process states (running, waiting, etc). works with [[0krnl]] for secure context switches. logs process activity for debugging.

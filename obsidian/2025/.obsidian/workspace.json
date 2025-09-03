@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "September/Concepts/ZEROS/docs/boot flow.md",
+                "file": "September/Concepts/ZEROS/0krnl/KERNEL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boot flow"
+              "title": "KERNEL"
             }
           },
           {
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "September/Concepts/ZEROS/docs/boot flow.md",
+                "file": "September/Concepts/ZEROS/0krnl/KERNEL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of boot flow"
+              "title": "Outline of KERNEL"
             }
           },
           {
@@ -233,40 +233,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21e714bd965e2f4f",
+  "active": "fadfe3033b5e0dcb",
   "lastOpenFiles": [
-    "September/Concepts/ZEROS/docs/todo.md",
-    "September/Concepts/ZEROS/zeroScript/zeroScript.md",
-    "September/Concepts/ZEROS/0krnl/KERNEL.md",
-    "September/Concepts/ZEROS/0krnl/KERNEL.md",
-    "September/Concepts/ZEROS/zeroScript/!index.md",
-    "September/Concepts/ZEROS/zeroScript/usage.md",
-    "September/Concepts/ZEROS/zeroScript/philosophy.md",
-    "September/Concepts/ZEROS/zeroScript/kernel.md",
+    "September/Concepts/ZEROS 1/zeroScript/usage.md",
+    "September/Concepts/ZEROS 1/zeroScript/zeroScript.md",
+    "September/Concepts/ZEROS 1/zeroScript/protocols.md",
+    "September/Concepts/ZEROS 1/zeroScript/kernel.md",
+    "September/Concepts/ZEROS 1/zeroScript/philosophy.md",
+    "September/Concepts/ZEROS 1/zeroScript/modules.md",
+    "September/Concepts/ZEROS 1/zeroScript/!index.md",
+    "September/Concepts/ZEROS 1/docs/todo.md",
+    "September/Concepts/ZEROS 1/zeroScript/composition.md",
+    "September/Concepts/ZEROS 1/docs/boot flow.md",
+    "September/Concepts/ZEROS 1/0krnl/KERNEL.md",
+    "September/Concepts/ZEROS 1/0krnl/0schd.md",
+    "September/Concepts/ZEROS 1/0krnl/0netw.md",
+    "September/Concepts/ZEROS 1/0krnl/0memr.md",
+    "September/Concepts/ZEROS 1/0krnl/0krnl.md",
+    "September/Concepts/ZEROS 1/0krnl/0io.md",
+    "September/Concepts/ZEROS 1/0krnl/0ipc.md",
+    "September/Concepts/ZEROS 1/0krnl/0init.md",
+    "September/Concepts/ZEROS 1/0krnl/0dev.md",
+    "September/Concepts/ZEROS 1/0krnl/0fsys.md",
+    "September/Concepts/ZEROS 1/0krnl/0drv.md",
+    "September/Concepts/ZEROS 1/0krnl/0boot.md",
+    "September/Concepts/ZEROS 1/0krnl/!index.md",
+    "September/Concepts/ZEROS 1/zeroScript",
+    "September/Concepts/ZEROS 1/docs",
+    "September/Concepts/ZEROS 1/0krnl",
+    "September/Concepts/ZEROS 1",
     "September/Concepts/ZEROS/zeroScript/composition.md",
-    "September/Concepts/ZEROS/zeroScript/protocols.md",
+    "September/Concepts/ZEROS/zeroScript/kernel.md",
     "September/Concepts/ZEROS/zeroScript/modules.md",
-    "September/Concepts/ZEROS/0krnl/0drv.md",
-    "September/Concepts/ZEROS/0krnl/0dev.md",
-    "September/Concepts/ZEROS/0krnl/0init.md",
-    "September/Concepts/ZEROS/0krnl/!index.md",
-    "September/Concepts/ZEROS/0krnl/0boot.md",
-    "September/Concepts/ZEROS/0krnl/0fsys.md",
-    "September/Concepts/ZEROS/0krnl/0io.md",
-    "September/Concepts/ZEROS/0krnl/0ipc.md",
-    "September/Concepts/ZEROS/0krnl/0krnl.md",
-    "September/Concepts/ZEROS/0krnl/0memr.md",
-    "September/Concepts/ZEROS/0krnl/0netw.md",
-    "September/Concepts/ZEROS/0krnl/0schd.md",
-    "September/Concepts/ZEROS/docs/boot flow.md",
     "September/Concepts/ZEROS/docs",
     "September/Concepts/ZEROS/zeroScript",
-    "Untitled 1.md",
     "September/Concepts/ZEROS/0krnl",
     "September/Concepts/ZEROS",
     "September/Concepts",
-    "Untitled",
-    "Untitled 1",
-    "September"
+    "Untitled"
   ]
 }
