@@ -1,1 +1,0 @@
-just shows how zeros boots up. kernel starts, does secScore, loads stuff, checks if things are ok, then runs. only runs if everything passes.

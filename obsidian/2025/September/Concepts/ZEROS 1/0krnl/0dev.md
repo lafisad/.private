@@ -1,2 +1,0 @@
-manages all devices and their states - detects, initializes, and monitors hardware devices
-works with [[0drv]] for driver assignment and with [[0io]] for device communication. keeps a list of all connected devices, checks their status, and handles hotplug events. can enable or disable devices. talks to [[0krnl]] for security checks before allowing new devices. updates device info for [[0fsys]] and [[0schd]].

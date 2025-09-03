@@ -1,2 +1,0 @@
-base for device comms
-links devices to [[0fsys]], [[0dev]], and [[0netw]]. handles all input and output operations, like reading from keyboard, writing to screen, talking to network cards, etc. sets up device buffers and manages interrupts. checks device status and errors. passes data between hardware and the rest of the system. works with [[0drv]] to know how to talk to each device.
